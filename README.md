@@ -1,4 +1,4 @@
-# Waste_Energy_Analysis
+# Waste Energy Analysis
 This repository contains files regarding the waste energy data analysis in which waste of Germany was analysed and the total energy production from it was observed.
 
 ## Table of Contents 
